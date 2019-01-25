@@ -22,11 +22,17 @@ This whiteboard design session will look at the process of migrating an on-premi
 
 At the end of this whiteboard design session, you will be better able to plan and implement a migration of your existing on-premises enterprise data warehouse to Azure SQL Data Warehouse and integrating it with both cloud-based and on-premises services and data sources.
 
+[Student notes](Whiteboard design session/WDS student guide - Migrate EDW to Azure SQL Data Warehouse.md)
+
 ## Hands-on Lab
 
 In this hands-on lab you will migrate an existing on-premises enterprise data warehouse to the cloud. You will investigate the current data warehouse to identify any incompatibilities, export the data from the on-premises data warehouse, and transfer it to an Azure Blob Storage. You will then load the data into the warehouse using Polybase. Finally, you will integrate the warehouse by migrating ETL to Azure Data Factory and supporting ad-hoc access by implementing Azure Analysis Services. 
 
 At the end of this hands-on lab, you will be better able to plan and implement a migration of your existing on-premises enterprise data warehouse to Azure SQL Data Warehouse and integrating it with both cloud-based and on-premises services and data sources.
+
+[Setup](Hands-on lab/Before the HOL - Migrate EDW to Azure SQL Data Warehouse.md)
+[Lab - detailed](Hands-on lab/HOL step-by-step - Migrate EDW to Azure SQL Data Warehouse.md)
+[Lab - freeform](Hands-on lab/HOL unguided - Migrate EDW to Azure SQL Data Warehouse.md)
 
 ## Azure services and related products 
 
